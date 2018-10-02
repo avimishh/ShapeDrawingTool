@@ -1,5 +1,5 @@
 # ShapeDrawingTool
-A basic tool to draw line,oval and rectangle.
+A basic tool drawing shapes.
 ## Featuring
 * Dynamic tool: draw new shape, undo and clear buttons.
 
